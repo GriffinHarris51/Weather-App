@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"name": "weatherApp",
+			"path": "."
+		},
+		{
+			"name": "skycons-master",
+			"path": "/Users/bigstacksjerry/Downloads/skycons-master"
+		}
+	],
+	"settings": {
+		"workbench.colorCustomizations": {
+			"activityBar.background": "#361A70",
+			"titleBar.activeBackground": "#4B249D",
+			"titleBar.activeForeground": "#FBF9FE"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "weatherApp"
+	}
+}
